@@ -4,7 +4,7 @@
 
 ## About
 
-This package is meant for the `django-taggit` package which is available [here](https://github.com/alex/django-taggit)
+This package helps serialize tags from [django-taggit](https://github.com/alex/django-taggit) so it can be used in conjunction with [Django REST framework](https://www.django-rest-framework.org/)
 
 The `django-taggit` package makes it possible to tag a certain module.
 
