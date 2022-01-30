@@ -7,3 +7,4 @@ flake8>=2.1.0
 tox>=1.7.0
 django-taggit>=1.2.0
 six
+pytz
